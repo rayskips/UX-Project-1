@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "910EDEE1-2ABA-4009-9B09-1ACC195F2190",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A81528CB-EDE1-447F-ADE4-189F90E2E56F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D92C8E9C-AE8B-464C-B205-DAFA7004038F",
+    "height": 54,
+    "width": 208,
+    "x": 135,
+    "y": 557
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Password Copy 5",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5FBD3831-20F3-48EA-B5D4-3633025A3297",
+      "overrideName": "611A63D7-3B03-4AFD-93D6-CF9AD356D714_stringValue",
+      "value": "ZIP CODE"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49F603F1-7882-468C-8A52-375D120184B6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D05449B8-A1E8-4067-A948-7581BA039672",
+  "verticalSpacing": 0
+}

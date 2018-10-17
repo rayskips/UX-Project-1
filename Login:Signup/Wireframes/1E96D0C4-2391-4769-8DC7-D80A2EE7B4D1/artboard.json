@@ -1,0 +1,105 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7913CAFE-4DB9-4A9D-8EFB-C0913B267B00",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "1E96D0C4-2391-4769-8DC7-D80A2EE7B4D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AEF7C46B-D8B2-41BC-B7FE-30EE881E3F29",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7E75ABCF-DD4D-48D9-B3B6-FA9D13FFA200",
+    "height": 812,
+    "width": 375,
+    "x": 601,
+    "y": -151
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "00DD5F64-C6B0-4BC7-8EBB-014872A0F4B0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0871D80D-84BF-40E3-A6B1-7B3C724CD396"
+    },
+    {
+      "class": "text",
+      "id": "45666DC0-8CDE-4D69-9DA2-2101C78CE5ED"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 20.41666666666667,
+    "do_objectID": "877F2B38-186C-4DFE-97E1-DEAAA3797DE5",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 7.727272727272728,
+    "guttersOutside": false,
+    "horizontalOffset": 22.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 330
+  },
+  "name": "iPhone X Copy 9",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone X",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E339750F-A1EF-4CBF-9D50-E902DB4475E3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B358179C-4D9C-46EE-83F3-F24A42302FB8",
+    "guides": [
+    ]
+  }
+}

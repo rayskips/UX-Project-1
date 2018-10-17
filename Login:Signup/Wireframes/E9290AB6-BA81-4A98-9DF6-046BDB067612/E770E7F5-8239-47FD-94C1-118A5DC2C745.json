@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "E770E7F5-8239-47FD-94C1-118A5DC2C745",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A673707-2A56-41BE-BF59-5878483C5968",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E71E41E2-615C-4272-980E-18094D8683C9",
+    "height": 54,
+    "width": 321,
+    "x": 20,
+    "y": 260
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Password",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5FBD3831-20F3-48EA-B5D4-3633025A3297",
+      "overrideName": "611A63D7-3B03-4AFD-93D6-CF9AD356D714_stringValue",
+      "value": "PASSWORD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B0FF8930-B670-407E-BEC4-278EF3AD87C2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D05449B8-A1E8-4067-A948-7581BA039672",
+  "verticalSpacing": 0
+}

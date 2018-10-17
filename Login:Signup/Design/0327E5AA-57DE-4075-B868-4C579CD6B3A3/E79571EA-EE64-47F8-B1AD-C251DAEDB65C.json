@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "E79571EA-EE64-47F8-B1AD-C251DAEDB65C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB8E7227-3C9D-4356-B035-9030A1EDB8BB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8CAFC06A-1BDB-4601-943F-90D32E40C298",
+    "height": 36,
+    "width": 91,
+    "x": 23,
+    "y": 612
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "90DCCFCA-778D-4612-BF27-814250156589",
+      "overrideName": "029CC306-C307-45F2-83F2-3C726FB7ACFC_stringValue",
+      "value": "SUBMIT"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1508B213-77BA-45EA-B507-3790B53A0B6E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7E9F6875-6B7E-452A-B81C-3787C31F93BD",
+  "verticalSpacing": 0
+}

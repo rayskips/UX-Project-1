@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "E0CBA2DB-B479-4414-9E87-261609989D1D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E3F0156-439F-4AE7-A9FC-F69004E70254",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EDB7E255-1432-442F-B2CD-9CC9CEECFF08",
+    "height": 197,
+    "width": 330,
+    "x": 22,
+    "y": 147
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Notification Screen",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7EE590C5-E9A4-4B9F-916C-A287655A5E25",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2FC02802-8E11-4330-BD5C-DA082B5363F7",
+  "verticalSpacing": 0
+}

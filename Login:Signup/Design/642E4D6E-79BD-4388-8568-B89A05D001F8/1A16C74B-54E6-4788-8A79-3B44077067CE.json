@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "1A16C74B-54E6-4788-8A79-3B44077067CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B5F85276-BF41-409C-B526-61A945F0BC5A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1B6BFA10-22DF-4BDC-91DA-98A607AF5429",
+    "height": 197,
+    "width": 330,
+    "x": 22,
+    "y": 153
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Notification Screen",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "70A42378-076D-4A27-930D-EEFC44E21E0B",
+      "overrideName": "DBA3FCC0-DF47-48D8-B160-4960A45C55F4_stringValue",
+      "value": "EMAIL VERIFICATION SENT TO"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D567BB9A-1277-4494-8DE4-2B3F23197DE6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2FC02802-8E11-4330-BD5C-DA082B5363F7",
+  "verticalSpacing": 0
+}

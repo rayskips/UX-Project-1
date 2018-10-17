@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "4A555884-AF8E-4F58-A52B-4A93977116D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "45070BC3-4D4C-424C-ACCA-BE2089C9E440",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6BD32C15-4767-4560-B27E-ABFC8423CC94",
+    "height": 197,
+    "width": 330,
+    "x": 22,
+    "y": 147
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Notification Screen",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "913921C5-00CA-4C1A-ABCC-A7EF941A5130",
+      "overrideName": "DBA3FCC0-DF47-48D8-B160-4960A45C55F4_stringValue",
+      "value": "PASSWORD CHANGED"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9DAFD54-1C5D-4CA7-BE85-6807B976F4FE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2FC02802-8E11-4330-BD5C-DA082B5363F7",
+  "verticalSpacing": 0
+}
