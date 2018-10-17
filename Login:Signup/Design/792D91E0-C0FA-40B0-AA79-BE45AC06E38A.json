@@ -1,10 +1,12 @@
 {
   "_class": "rectangle",
   "booleanOperation": -1,
-  "do_objectID": "BEDE5EA1-5339-4F2E-BD69-1C2E392A6ECD",
+  "clippingMaskMode": 0,
+  "do_objectID": "792D91E0-C0FA-40B0-AA79-BE45AC06E38A",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "301D880C-8D6F-43EF-A0FC-0C89DAE74FA7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +18,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 197,
-    "width": 330,
-    "x": 0,
-    "y": 0
+    "height": 56,
+    "width": 80,
+    "x": -1151,
+    "y": 29
   },
+  "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
   "isFixedToViewport": false,
@@ -28,8 +31,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Path",
+  "layerListExpandedType": 1,
+  "name": "Rectangle Copy 4",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -77,5 +80,47 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "B5DE520E-3A4D-4692-9CA6-FE22FFC6ED9F",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.09803921568627448,
+          "green": 0.1686274509803922,
+          "red": 0.01960784313725488
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
 }
